@@ -1,0 +1,14 @@
+#TalentAndSkills, #Talent, #Skills, #CommunicationSkills, #TechnicalSkills, #OtherSkills {
+	margin-bottom: 20px;
+}
+
+ul.Talent, ul.CommunicationSkills, ul.TechnicalSkills, ul.OtherSkills {
+	list-style-type: disc;
+	margin: 10px 0 0 20px;
+	padding: 0;
+}
+
+ul.Talent li, ul.CommunicationSkills li, ul.TechnicalSkills li, ul.OtherSkills li {
+	margin-bottom: 5px;
+}
+

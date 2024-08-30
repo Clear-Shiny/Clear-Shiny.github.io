@@ -1,0 +1,21 @@
+#SeminarsAndTrainings, #Trainings, #Seminars {
+	margin-bottom: 20px;
+}
+
+table.trainings, table.seminars {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+}
+
+table.trainings th, table.seminars th, table.trainings td, table.seminars td {
+	border: 1px solid black;
+	text-align: left;
+	padding: 8px;
+}
+
+table.trainings th, table.seminars th {
+	background-color: #333;
+	color: white;
+}
+

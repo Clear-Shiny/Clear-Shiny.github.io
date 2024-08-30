@@ -1,0 +1,31 @@
+.h1, .h2 {
+    margin-bottom: 20px;
+}
+
+figure {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+figcaption {
+    margin-left: 20px;
+    max-width: 600px;
+}
+
+#SS {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.bookreader1, .bookreader2, .bookreader3, .bookreader4, .bookreader5, 
+.bookreader6, .bookreader7, .bookreader8, .bookreader9, .bookreader10 {
+    flex: 1 1 calc(50% - 20px); /* Two items per row */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}

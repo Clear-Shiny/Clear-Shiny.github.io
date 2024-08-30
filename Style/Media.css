@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+	header nav ul {
+	flex-direction: column;
+	align-items: center;
+    }
+
+	.nav li {
+		float: none;
+	    }
+
+	.explorelist ul {
+		flex-direction: column;
+		align-items: center;
+	}
+}

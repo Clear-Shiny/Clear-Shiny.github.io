@@ -1,0 +1,19 @@
+.clearshiny, .goldenstarcrown, .sightless, .wish, .value, .okaylangako, .clearshinysplaylist, .ikasangdaan, .hayford, .pagaspas, .pagaspasenglishversion {
+	display: block;
+	margin: 10px 0
+	color: #333;
+	text-decoration: none;
+}
+
+.clearshiny:hover, .goldenstarcrown:hover, .sightless:hover, .wish:hover, .value:hover, .okaylangako:hover, .clearshinysplaylist:hover, .ikasangdaan:hover, .hayford:hover, .pagaspas:hover, .pagaspasenglishversion:hover {
+	color: #333;
+}
+
+#ClearShiny, #GoldenStarCrown, #Sightless, #Wish, #Value, #OkayLangAko, #ClearShinysPlaylist, #IkasangDaan, #HayFord, #Pagaspas, #PagaspasEnglishVersion {
+	margin-bottom: 20px;
+}
+
+#ClearShiny h2, #GoldenStarCrown h2, #Sightless h2, #Wish h2, #Value h2, #OkayLangAko h2, #ClearShinysPlaylist h2, #IkasangDaan h2, #HayFord h2, #Pagaspas h2, #PagaspasEnglishVersion h2 {
+	color: #333;
+}
+
